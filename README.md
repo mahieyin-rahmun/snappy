@@ -1,1 +1,2 @@
-# cse311OnlineShop
+# Snappy
+
